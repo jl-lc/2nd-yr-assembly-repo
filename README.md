@@ -1,3 +1,4 @@
 # ECE 222 Assembly Projects Repo
-Repository containing Assembly projects completed in ECE 222 course
-## Project 1
+Repository containing completed Assembly projects of interest in ECE 222 course
+## Project 2 - Assembly Morse Code Transmitter
+An LED on the board is used as a Morse code transmitter which blinks the Morse code of a string at 1Hz. Fetches characters from the Input LUT which stores  the string to be blinked in Morse Code. Obtains the index for the Morse LUT from the ASCII value of the character. Blinks the corresponding Morse Code obtained from the Morse LUT by calling subroutines LED_ON, LED_OFF, and DELAY for turning on and off the LED and holding each state for 0.5 seconds. The string is blinked with 1.5 second LED on representing a dash, 0.5 second LED on representing a dot, 0.5 seconds LED off in between dashes and dots, 1.5 seconds LED off between letters, and 2 seconds LED off between strings. Utilized subroutines and parameter passing. 
