@@ -1,0 +1,21 @@
+*** Creating Trace Output File 'lab_2.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"lab_2_main.o"'
+### List of Objects: adding '"startup_lpc17xx.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "lab_2_main.o" "startup_lpc17xx.o" 
+--strict --scatter "lab_2.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\lab_2.map" -o lab_2.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'lab_2.axf'
+### ADS-LD Command File: 'lab_2.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'lab_2.lnp', Handle=0x00000F50
+### Writing '.lnp' file
+### ADS-LD Command file 'lab_2.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

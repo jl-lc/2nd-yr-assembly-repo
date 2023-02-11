@@ -1,0 +1,69 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+N:\ECE_222\Lab_2_V4\lab_2.uvproj
+Project File Date:  02/11/2023
+
+<h2>Output:</h2>
+Build target 'LBC1768_RAM'
+assembling Lab_2_main.s...
+assembling startup_LPC17xx.s...
+linking...
+lab_2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=308 RO-data=204 RW-data=0 ZI-data=512  
+"lab_2.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\ECE_222\\Lab_2_V4\\lab_2.AXF" 
+No Algorithm found for: 10000000H - 100001FBH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 100001FBH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LBC1768_RAM'
+assembling Lab_2_main.s...
+linking...
+lab_2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=316 RO-data=204 RW-data=0 ZI-data=512  
+"lab_2.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\ECE_222\\Lab_2_V4\\lab_2.AXF" 
+No Algorithm found for: 10000000H - 10000203H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000203H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LBC1768_RAM'
+assembling Lab_2_main.s...
+linking...
+lab_2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=324 RO-data=204 RW-data=0 ZI-data=512  
+"lab_2.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\ECE_222\\Lab_2_V4\\lab_2.AXF" 
+No Algorithm found for: 10000000H - 1000020BH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 1000020BH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LBC1768_RAM'
+linking...
+lab_2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=324 RO-data=204 RW-data=0 ZI-data=512  
+"lab_2.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\ECE_222\\Lab_2_V4\\lab_2.AXF" 
+No Algorithm found for: 10000000H - 1000020BH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 1000020BH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LBC1768_RAM'
+assembling Lab_2_main.s...
+linking...
+lab_2.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=320 RO-data=204 RW-data=0 ZI-data=512  
+"lab_2.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\ECE_222\\Lab_2_V4\\lab_2.AXF" 
+No Algorithm found for: 10000000H - 10000207H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000207H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
