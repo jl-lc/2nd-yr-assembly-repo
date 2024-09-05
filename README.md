@@ -1,5 +1,5 @@
-# ECE 222 ARM Assembly Projects Repo
-Repository containing completed ARM Assembly projects of interest in ECE 222 course
+# ARM Assembly Projects Repo
+Repository containing completed ARM Assembly projects of interest in second year course
 
 ---
 ## Project 2 - Assembly Morse Code Transmitter
